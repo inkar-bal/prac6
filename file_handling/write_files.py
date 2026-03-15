@@ -12,4 +12,3 @@ f.write("Another appended line\n")
 f.close()
 
 print("New lines appended.")
-f

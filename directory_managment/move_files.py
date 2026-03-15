@@ -18,4 +18,3 @@ print("File moved to 'destination' folder.")
 # Verify contents
 print("\nFiles in destination folder:")
 print(os.listdir("destination"))
-f

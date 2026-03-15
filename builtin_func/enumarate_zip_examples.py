@@ -19,4 +19,3 @@ for name, score in sorted(zip(names, scores), key=lambda x: x[1], reverse=True):
 scores_str = list(map(str, scores))
 print("\nScores converted to strings:", scores_str)
 print("Type of scores_str:", type(scores_str))
-f

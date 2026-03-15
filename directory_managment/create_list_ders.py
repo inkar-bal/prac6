@@ -45,4 +45,3 @@ else:
     print("\nCreated 'emptyfolder' for demonstration")
     os.rmdir("myfolder/emptyfolder")
     print("'emptyfolder' deleted")
-    f

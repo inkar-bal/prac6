@@ -15,4 +15,3 @@ print("Numbers > 3:", list(filter(lambda x: x > 3, numbers)))
 
 # reduce()
 print("Sum using reduce:", reduce(lambda x, y: x + y, numbers))
-f
