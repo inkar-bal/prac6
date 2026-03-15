@@ -15,4 +15,5 @@ if os.path.exists("myfolder"):
     os.rmdir("myfolder")
     print("Folder removed.")
 else:
+    f
     print("Folder does not exist")
